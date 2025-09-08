@@ -1,5 +1,5 @@
 {
-  "name": "randomgen",
+  "name": "randomlykey",
   "version": "1.0.0",
   "description": "javascript library to generate random numbers, letters, special character and with min/max range control",
   "main": "randomly.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/claudiobentodaladev/RANDOMGEN.git"
+    "url": "git+https://github.com/claudiobentodaladev/RANDOMLYKEY.git"
   },
   "keywords": [
     "random",
@@ -17,7 +17,7 @@
   "author": "claudiobentodala",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/claudiobentodaladev/RANDOMGEN/issues"
+    "url": "https://github.com/claudiobentodaladev/RANDOMLYKEY/issues"
   },
-  "homepage": "https://github.com/claudiobentodaladev/RANDOMGEN#readme"
+  "homepage": "https://github.com/claudiobentodaladev/RANDOMLYKEY#readme"
 }
