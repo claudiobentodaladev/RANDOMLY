@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/claudiobentodaladev/RANDOMLYKEY.git"
+    "url": "git+https://github.com/claudiobentodaladev/randomlykey.git"
   },
   "keywords": [
     "random",
@@ -17,7 +17,7 @@
   "author": "claudiobentodala",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/claudiobentodaladev/RANDOMLYKEY/issues"
+    "url": "https://github.com/claudiobentodaladev/randomlykey/issues"
   },
-  "homepage": "https://github.com/claudiobentodaladev/RANDOMLYKEY#readme"
+  "homepage": "https://github.com/claudiobentodaladev/randomlykey#readme"
 }
